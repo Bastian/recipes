@@ -19,6 +19,33 @@
             padding: 0 16px 16px;
         }
 
+        @media print {
+            #back-link {
+                display: none;
+            }
+        }
+
+        #back-link {
+            margin-right: 8px;
+        }
+
+        #back-icon {
+            height: 28px;
+            width: 28px;
+            margin-bottom: -2px;
+        }
+
+        #title-wrapper {
+            margin-top: 16px;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: baseline;
+        }
+
+        #title {
+            margin: 0;
+        }
+
         #description1 img {
             border-radius: 8px;
         }
@@ -135,7 +162,14 @@
 
 <body>
     <div id="recipe-container" class="container">
-        <h1 id="title"></h1>
+        <div id="title-wrapper">
+            <a id="back-link" href="/">
+                <svg xmlns="http://www.w3.org/2000/svg" id="back-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+                </svg>
+            </a>
+            <h1 id="title"></h1>
+        </div>
         <div id="description1"></div>
         <div id="ingredients-container"></div>
         <div id="description2"></div>
