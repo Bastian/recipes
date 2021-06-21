@@ -6,7 +6,7 @@
 
 ### Für 4 Burger
 
-- **4** Hambuger-Brötchen
+- **4** Hamburger-Brötchen
 - **680g** Rinderhackfleisch
 - **8** Scheiben Cheddar Käse
 - **1** Tomate
@@ -24,20 +24,18 @@
 
 ## Zubereitung
 
-### Sauce
-
-Die Ziebel so klein wie möglich schneiden (am besten reiben). Die Ziebel
-zusammen mit allen anderen Zutaten für die Sauce verrühren.
-
 ### Vorbereitung
 
-Den Eisbergsalat klein schneiden.
+* Das Hackfleich in 8 gleichgroße Teile aufteilen (je 85g) und zu runden
+Kügelchen formen. Diese dann in den Kühlschrank stellen
+* Den Eisbergsalat klein schneiden
+* Die Tomate in 8 dünne Scheiben schneiden
+(*Tipp: Die Tomate mit dem Strunk zur Seite gedreht schneiden*)
+* Die Ziebel so klein wie möglich schneiden (am besten reiben)
 
-Die Tomate in 8 dünne Scheiben schneiden
-(*Tipp: Die Tomate mit den Strunk zur Seite gedreht schneiden*).
+### Sauce
 
-Das Hackfleich in 8 gleichgroße Teile aufteilen (je 85g) und zu runden Kügelchen
-formen. Diese dann in den Kühlschrank stellen.
+Die Ziebel zusammen mit allen anderen Zutaten für die Sauce verrühren.
 
 ### Brötchen rösten
 
