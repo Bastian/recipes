@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rezepte</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@12.0.6/dist/markdown-it.min.js" integrity="sha256-mkusANAsHSTrjUlaSCtZbvJshVW2tZrPGQsuoDQ8eKc=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/modern-normalize@1.1.0/modern-normalize.css" integrity="sha256-tNxXsOT6dx9hXElc6ZSLWyMEp94gnMIxPGrJqzCZ1Ww=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2.0.0/out/light.min.css" integrity="sha256-UjlFXfwk+nLThYsZIq1M16RfkdCxwpGWdJsTOaYManw=" crossorigin="anonymous">
+
+    <style>
+        .container {
+            display: none;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 16px 16px;
+        }
+
+        #description1 img {
+            border-radius: 8px;
+        }
+
+        #description2 {
+            display: none;
+        }
+
+        #description2 img {
+            border-radius: 8px;
+            max-width: calc(100% - 350px);
+        }
+
+        #ingredients-container {
+            background-color: #eee;
+            padding: 8px 24px 16px;
+            margin-top: 16px;
+            border-radius: 8px;
+        }
+
+        #ingredients-container h2::before {
+            content: "📋 ";
+        }
+
+        #instructions-container h2::before {
+            content: "🔪 ";
+        }
+
+        @media print, screen and (min-width: 600px) {
+            #ingredients-container {
+                width: 320px;
+                background-color: #eee;
+                float: right;
+                padding: 0px 24px 16px;
+                margin: 4px 0 16px 16px;
+
+                border-radius: 8px;
+            }
+
+            #description1 {
+                display: none;
+            }
+
+            #description2 {
+                display: block;
+            }
+        }
+    </style>
+
+    <script>
+        const md = window.markdownit();
+
+        async function loadRecipe() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const recipeFile = urlParams.get('recipe');
+
+            if (!recipeFile) {
+                return;
+            }
+
+            const result = await fetch(`/recipes/${recipeFile}.md`);
+            return result.text();
+        }
+
+        async function loadRecipeList() {
+            const result = await fetch(`/recipes.md`);
+            return result.text();
+        }
+
+        async function parseMarkdown(markdown) {
+            const regexHeader = /(^|\n)(# (.+)\n)((.|\n)+?)(=?\n## )/gm;
+            const headerExec = regexHeader.exec(markdown)
+            const title = headerExec[3];
+            const description = headerExec[4];
+
+            const regexSubheading = /\n(## (.|\n)+?(?=\n## |$))/g;
+            const ingredients = regexSubheading.exec(markdown)[1];
+            const instructions = regexSubheading.exec(markdown)[1];
+
+            return [title, description, ingredients, instructions];
+        }
+
+        async function init() {
+            const recipe = await loadRecipe();
+
+            if (!recipe) {
+                const recipeList = await loadRecipeList();
+                 document.getElementById("recipe-list").innerHTML
+                    = md.render(recipeList);
+                document.getElementById("recipe-list").style.display = "block";
+                return;
+            }
+
+            const [title, description, ingredients, instructions] = await parseMarkdown(recipe);
+            
+            document.title = title;
+
+            document.getElementById("title").innerHTML = title;
+            document.getElementById("description1").innerHTML
+                = md.render(description);
+            document.getElementById("description2").innerHTML
+                = md.render(description);
+            document.getElementById("ingredients-container").innerHTML 
+                = md.render(ingredients);
+            document.getElementById("instructions-container").innerHTML 
+                = md.render(instructions);
+
+            document.getElementById("recipe-container").style.display = "block";
+        }
+
+        init().catch(error => console.log(error));
+    </script>
+</head>
+
+<body>
+    <div id="recipe-container" class="container">
+        <h1 id="title"></h1>
+        <div id="description1"></div>
+        <div id="ingredients-container"></div>
+        <div id="description2"></div>
+        <div id="instructions-container"></div>
+    </div>
+    <div id="recipe-list" class="container"></div>
+</body>
+
+</html>
