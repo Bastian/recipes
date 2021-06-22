@@ -4,7 +4,8 @@ A list of personal recipes in markdown format and the source-code to render them
 on a website.
 
 You can view it in action at https://rezepte.bastian-oppermann.de/
-(*Disclaimer: All recipes are in German*).
+(*Disclaimer: All recipes are in German*). Many of the recipes are
+work-in-progress and will be improved over time.
 
 While this project is for my personal use, you can very easily use it to manage
 your own recipes. Just fork it, setup Google Pages, and swap out the recipes for
