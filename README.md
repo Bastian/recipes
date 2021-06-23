@@ -31,7 +31,8 @@ markdown files.
 
 The website itself is trying to be as simple as possible. It uses plain
 JavaScript to render the markdown and plain CSS for styling. Dependencies are
-kept to a minimum and included with reliable CDNs.
+kept to a minimum and directly download to the `libs` folder (no CDN or package
+manager).
 
 ### The recipes should be accessible on mobile but also printable and easy to share
 
