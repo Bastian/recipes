@@ -1,14 +1,16 @@
-# Recipes
+# 👨‍🍳 Recipes
+
+![Example](/.github/example.png)
 
 A list of personal recipes in markdown format and the source-code to render them
 on a website.
 
-You can view it in action at https://rezepte.bastian-oppermann.de/
+You can view it in action here: [Burger recipe][smashed-burger]
 (*Disclaimer: All recipes are in German*). Many of the recipes are
 work-in-progress and will be improved over time.
 
 While this project is for my personal use, you can very easily use it to manage
-your own recipes. Just fork it, setup Google Pages, and swap out the recipes for
+your own recipes. Just fork it, setup GitHub Pages, and swap out the recipes for
 your own.
 
 ## Why?
@@ -83,3 +85,5 @@ You can just serve all files of the repository with a webserver and it will
 work. The easiest way to do this, is to use 
 [GitHub Pages](https://pages.github.com/) for it. This will work out-of-the-box
 (you just have to remove/replace the `CNAME` file).
+
+[smashed-burger]: https://rezepte.bastian-oppermann.de/?recipe=smashed-burger
