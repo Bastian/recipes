@@ -1,6 +1,6 @@
 # Offenkartoffeln
 
-![](/recipes/baked-potatoes.jpg)
+![](/images/baked-potatoes.jpg)
 
 ## Zutaten
 

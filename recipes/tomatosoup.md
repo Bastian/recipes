@@ -1,6 +1,6 @@
 # Tomatensuppe
 
-![](/recipes/tomatosoup.jpg)
+![](/images/tomatosoup.jpg)
 
 ## Zutaten
 

@@ -1,6 +1,6 @@
 # Arroz Rojo / Mexikanischer Reis
 
-![](/recipes/arroz-rojo.jpg)
+![](/images/arroz-rojo.jpg)
 
 ## Zutaten
 

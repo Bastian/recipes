@@ -1,6 +1,6 @@
 # Nachos
 
-![](/recipes/nachos.jpg)
+![](/images/nachos.jpg)
 
 ## Zutaten
 

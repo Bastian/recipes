@@ -1,6 +1,6 @@
 # Nudelsalat
 
-![](/recipes/pasta-salad.jpg)
+![](/images/pasta-salad.jpg)
 
 ## Zutaten
 

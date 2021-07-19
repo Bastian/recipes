@@ -1,6 +1,6 @@
 # Ofen Feta
 
-![](/recipes/oven-feta.jpg)
+![](/images/oven-feta.jpg)
 
 ## Zutaten
 

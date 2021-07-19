@@ -1,6 +1,6 @@
 # Hackbällchen
 
-![](/recipes/meatballs.jpg)
+![](/images/meatballs.jpg)
 
 ## Zutaten
 

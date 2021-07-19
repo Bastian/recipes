@@ -1,6 +1,6 @@
 # Pizza
 
-![](/recipes/pizza.jpg)
+![](/images/pizza.jpg)
 
 ## Zutaten
 

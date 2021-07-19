@@ -1,6 +1,6 @@
 # Smashed Burger
 
-![](/recipes/smashed-burger.jpg)
+![](/images/smashed-burger.jpg)
 
 ## Zutaten
 
@@ -61,13 +61,13 @@ dem Fleisch liegen. Anschließend den "Deckel" auf den Burger legen und fertig.
 
 ## Bilder
 
-![](/recipes/smashed-burger-1.jpg)
-![](/recipes/smashed-burger-2.jpg)
-![](/recipes/smashed-burger-3.jpg)
-![](/recipes/smashed-burger-4.jpg)
-![](/recipes/smashed-burger-5.jpg)
-![](/recipes/smashed-burger-6.jpg)
-![](/recipes/smashed-burger-7.jpg)
-![](/recipes/smashed-burger-8.jpg)
-![](/recipes/smashed-burger-9.jpg)
-![](/recipes/smashed-burger.jpg)
+![](/images/smashed-burger-1.jpg)
+![](/images/smashed-burger-2.jpg)
+![](/images/smashed-burger-3.jpg)
+![](/images/smashed-burger-4.jpg)
+![](/images/smashed-burger-5.jpg)
+![](/images/smashed-burger-6.jpg)
+![](/images/smashed-burger-7.jpg)
+![](/images/smashed-burger-8.jpg)
+![](/images/smashed-burger-9.jpg)
+![](/images/smashed-burger.jpg)

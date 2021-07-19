@@ -1,6 +1,6 @@
 # Bazlama / Pfannen Fladenbrot
 
-![](/recipes/bazlama.jpg)
+![](/images/bazlama.jpg)
 
 ## Zutaten
 
