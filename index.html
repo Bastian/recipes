@@ -23,6 +23,10 @@
             #back-link {
                 display: none;
             }
+
+            #image-container {
+                display: none;
+            }
         }
 
         #back-link {
@@ -74,6 +78,14 @@
             content: "🔪 ";
         }
 
+        #image-container h2::before {
+            content: "📷 ";
+        }
+        
+        #image-container p img {
+            border-radius: 8px;
+        }
+
         @media print, screen and (min-width: 600px) {
             #ingredients-container {
                 width: 320px;
@@ -91,6 +103,12 @@
 
             #description2 {
                 display: block;
+            }
+
+            #image-container p {
+                display: grid;
+                grid-template-columns: 50% 50%;
+                gap: 12px;
             }
         }
     </style>
@@ -124,8 +142,9 @@
             const regexSubheading = /\n(## (.|\n)+?(?=\n## |$))/g;
             const ingredients = regexSubheading.exec(markdown)[1];
             const instructions = regexSubheading.exec(markdown)[1];
+            const images = regexSubheading.exec(markdown)?.[1];
 
-            return [title, description, ingredients, instructions];
+            return [title, description, ingredients, instructions, images];
         }
 
         async function init() {
@@ -139,7 +158,7 @@
                 return;
             }
 
-            const [title, description, ingredients, instructions] = await parseMarkdown(recipe);
+            const [title, description, ingredients, instructions, images] = await parseMarkdown(recipe);
             
             document.title = title;
 
@@ -152,6 +171,10 @@
                 = md.render(ingredients);
             document.getElementById("instructions-container").innerHTML 
                 = md.render(instructions);
+            if (images !== undefined) {
+                document.getElementById("image-container").innerHTML 
+                = md.render(images);
+            }
 
             document.getElementById("recipe-container").style.display = "block";
         }
@@ -174,6 +197,7 @@
         <div id="ingredients-container"></div>
         <div id="description2"></div>
         <div id="instructions-container"></div>
+        <div id="image-container"></div>
     </div>
     <div id="recipe-list" class="container"></div>
 </body>

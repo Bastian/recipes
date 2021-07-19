@@ -65,6 +65,10 @@ headings.
 
 A list with the instructions. Can use all markdown feature including "smaller"
 headings.
+
+## Images
+
+A list with images (optional).
 ```
 
 The titles for ingredients and the instructions are not fixed and can be for
