@@ -74,9 +74,9 @@ A list with images (optional).
 The titles for ingredients and the instructions are not fixed and can be for
 example in your local language. Only the order matters.
 
-There must be exactly one `h1` header and two `h2` headers. If the markdown does
-not fullfil these requirements, the script might not render the recipe correctly
-or maybe even not at all.
+There must be exactly one `h1` header and two to three `h2` headers. If the
+markdown does not fullfil these requirements, the script might not render the
+recipe correctly or maybe even not at all.
 
 ### Recipe list
 
