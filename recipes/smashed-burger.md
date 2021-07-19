@@ -55,7 +55,7 @@ zusammen.
 ### Burger belegen
 
 Das untere Brötchen mit etwas Sauce bestreichen. Anschließend das Brötchen
-mit Salat, 2 Tomatenscheiben und den Doppel-Patty belegen. Das Brötchen ist
+mit Salat, 2 Tomatenscheiben und dem Doppel-Patty belegen. Das Brötchen ist
 stabiler und lässt sich besser essen, wenn der Salat und die Tomaten unter
 dem Fleisch liegen. Anschließend den "Deckel" auf den Burger legen und fertig.
 
