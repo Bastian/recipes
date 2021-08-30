@@ -26,16 +26,16 @@
 
 ### Vorbereitung
 
-* Das Hackfleich in 8 gleichgroße Teile aufteilen (je 85g) und zu runden
+* Das Hackfleisch in 8 gleichgroße Teile aufteilen (je 85g) und zu runden
 Kügelchen formen. Diese dann in den Kühlschrank stellen
 * Den Eisbergsalat klein schneiden
 * Die Tomate in 8 dünne Scheiben schneiden
 (*Tipp: Die Tomate mit dem Strunk zur Seite gedreht schneiden*)
-* Die Ziebel so klein wie möglich schneiden (am besten reiben)
+* Die Zwiebel so klein wie möglich schneiden (am besten reiben)
 
 ### Sauce
 
-Die Ziebel zusammen mit allen anderen Zutaten für die Sauce verrühren.
+Die Zwiebel zusammen mit allen anderen Zutaten für die Sauce verrühren.
 
 ### Brötchen rösten
 

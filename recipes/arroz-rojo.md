@@ -32,7 +32,7 @@ Dieser Schritt ist wichtig, da der Reis sonst leicht matschig wird.
 
 ### Zutaten vorbereiten
 
-Die Zwiebel und den Knoblach klein schneiden, in eine kleine Schale füllen und
+Die Zwiebel und den Knoblauch klein schneiden, in eine kleine Schale füllen und
 zur Seite stellen
 
 Die Karotte, Paprika und Chilli klein schneiden und in eine Schüssel füllen. Die
@@ -41,7 +41,7 @@ geben.
 
 Die Tomaten pürieren.
 
-### Ziebeln und Knoblauch anbraten
+### Zwiebeln und Knoblauch anbraten
 
 Das Olivenöl in einen Topf geben und auf mittlere Hitze erhitzen. Anschließend
 die Zwiebeln und den Knoblauch für ca. 2 Minuten anbraten.

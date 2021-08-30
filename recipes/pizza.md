@@ -39,7 +39,7 @@ zu verwenden. Außerdem gilt: Weniger ist mehr. Nicht zu dick belegen!
 
 ### Backen
 
-Hier gilt: Um so heißer, um so besser. Im vorgeheizten Ofen bei 300°C Umluft und
+Hier gilt: Je heißer, desto besser. Im vorgeheizten Ofen bei 300°C Umluft und
 auf einem Pizzastein braucht die Pizza ca. 6-8 Minuten.
 Weder der Pizzastein, noch die 300°C sind unbedingt nötig, aber für das optimale
 Ergebnis sollte der Ofen so heiß wie nur irgendwie möglich sein.
@@ -56,4 +56,4 @@ Ergebnis sollte der Ofen so heiß wie nur irgendwie möglich sein.
   Teig drückt.
 - Der Pizzateig lässt sich leicht einfrieren. Einfach bereits in runde Form
   bringen, mit Tomatensauce bestreichen und dann einfrieren. Sobald die Pizza
-  geforeren ist, in einen Gefrierbeutel packen damit kein Gefrierbrand entsteht.
+  gefroren ist, in einen Gefrierbeutel packen damit kein Gefrierbrand entsteht.

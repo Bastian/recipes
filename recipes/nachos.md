@@ -17,7 +17,7 @@
 - **300g** Tortillachips (gesalzen)
 - **3** Tomaten
 - **4** Esslöffel Olivenscheiben
-- **1** Packung griebener Käse (Gouda oder Mozzarella)
+- **1** Packung geriebener Käse (Gouda oder Mozzarella)
 
 ## Zubereitung
 
