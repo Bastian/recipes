@@ -12,6 +12,7 @@
 
 ## 🥗 Beilagen
 
+- [Geröstete Kartoffeln](/?recipe=roasted-potatoes)
 - [Ofenkartoffeln](/?recipe=baked-potatoes)
 - [Nudelsalat](/?recipe=pasta-salad)
 - [Hackbällchen](/?recipe=meatballs)
