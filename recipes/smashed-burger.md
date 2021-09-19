@@ -59,6 +59,8 @@ mit Salat, 2 Tomatenscheiben und dem Doppel-Patty belegen. Das Brötchen ist
 stabiler und lässt sich besser essen, wenn der Salat und die Tomaten unter
 dem Fleisch liegen. Anschließend den "Deckel" auf den Burger legen und fertig.
 
+*Original-Rezept: [Better Than Fast Food! Classic Smash Burger Recipe](https://youtu.be/foD42-73wdI)*
+
 ## Bilder
 
 ![](/images/smashed-burger-1.jpg)
