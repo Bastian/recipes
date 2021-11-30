@@ -10,7 +10,7 @@
 - **680g** Rinderhackfleisch
 - **8** Scheiben Cheddar Käse
 - **1** Tomate
-- **2** Esslöffel Butter
+- **4** Esslöffel Butterschmalz
 - Salz
 - **0,2** Eisbergsalat
 
@@ -39,7 +39,7 @@ Die Zwiebel zusammen mit allen anderen Zutaten für die Sauce verrühren.
 
 ### Brötchen rösten
 
-Die Brötchen mit Butter bestreichen und in einer Pfanne bei mittlerer Hitze
+Butterschmalz in eine Pfanne auf mittlerer Hitze geben und die Brötchen darin
 goldbraun rösten.
 
 ### Fleisch anbraten
