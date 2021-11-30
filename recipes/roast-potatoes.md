@@ -1,6 +1,6 @@
 # Geröstete Kartoffeln
 
-![](/images/roasted-potatoes.jpg)
+![](/images/roast-potatoes.jpg)
 
 ## Zutaten
 

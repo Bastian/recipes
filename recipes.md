@@ -12,6 +12,6 @@
 
 ## 🥗 Beilagen
 
-- [Geröstete Kartoffeln](/?recipe=roasted-potatoes)
+- [Röstkartoffeln](/?recipe=roast-potatoes)
 - [Nudelsalat](/?recipe=pasta-salad)
 - [Arroz Rojo / Mexikanischer Reis](/?recipe=arroz-rojo)
