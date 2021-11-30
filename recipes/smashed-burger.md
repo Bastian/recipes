@@ -19,8 +19,8 @@
 - **120ml** Mayonnaise
 - **1/2** Zwiebel
 - **1** Teelöffel Wocestershire Sauce
-- **1** Esslöffel Senf
 - **2** Teelöffel Chilli Sauce
+- **1** Esslöffel Senf
 
 ## Zubereitung
 
