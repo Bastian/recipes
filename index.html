@@ -134,7 +134,7 @@
         }
 
         async function parseMarkdown(markdown) {
-            const regexHeader = /(^|\n)(# (.+)\n)((.|\n)+?)(=?\n## )/gm;
+            const regexHeader = /(^|\n)(# (.+))([^#]+?)(## )/gm;
             const headerExec = regexHeader.exec(markdown)
             const title = headerExec[3];
             const description = headerExec[4];

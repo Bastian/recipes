@@ -9,6 +9,7 @@
 
 - [Smashed Burger](/?recipe=smashed-burger) 
 - [Nachos](/?recipe=nachos)
+- [Enchiladas](/?recipe=enchiladas)
 
 ## 🥗 Beilagen
 
