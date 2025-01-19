@@ -4,6 +4,7 @@
 
 - [Tomatensuppe](/?recipe=tomatosoup)
 - [Pizza](/?recipe=pizza)
+- [Flammkuchen](/?recipe=tarte-flambee)
 
 ## 🍔 Fast Food
 
