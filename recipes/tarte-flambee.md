@@ -2,7 +2,7 @@
 
 ## Zutaten
 
-### Teig für 4 Flammkuchen
+### Teig für 2 Flammkuchen
 
 - **250g** Mehl (Type 405)
 - **125ml** Wasser
@@ -12,7 +12,8 @@
 ### Belag
 
 - **1** Zwiebel, in halbe Ringe dünn geschnitten
-- **1** Becher Crème double (alternativ Creme Fraiche)
+- **0,5** Becher Crème double (alternativ Creme Fraiche)
+- **0,5** Becher Schmand
 - **100g** Speckwürfel
 - Schnittlauch und/oder Lauchzwiebeln
 - Salt und Pfeffer
@@ -29,7 +30,7 @@ Zwiebeln mit ganz wenig Wasser 1 Minute bei 600 Watt in der Mikrowelle dünsten.
 
 ### Backen
 
-Im heißen Ofen bei 250 °C Ober-/Unterhitze auf der unteren Einschubleiste 20 Minuten backen. Mit Schnittlauchröllchen bestreut servieren.
+Im heißen Ofen bei 250 °C Ober-/Unterhitze auf der unteren Einschubleiste 15 Minuten backen. Mit Schnittlauchröllchen bestreut servieren.
 
 ### Quelle
 
