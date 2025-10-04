@@ -36,5 +36,4 @@
 
 ## Serviervorschlag
 
-Der Schaschliktopf schmeckt besonders gut mit  
-**Baguette, Reis oder Pommes**.
+Der Schaschliktopf schmeckt besonders gut mit **Baguette, Reis oder Pommes**.
